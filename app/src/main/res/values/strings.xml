@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">C_to_F_HW</string>
+    <string name="ctf_label">Convert from Celsius to Fahrenheit</string>
+    <string name="ftc_label">Convert from Fahrenheit to Celsius</string>
+    <string name="convert_string">CONVERT!</string>
+    <string name="num_hint">Enter a Number</string>
+</resources>
